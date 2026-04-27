@@ -1,4 +1,4 @@
-# 🚁 Drone Video Processing using YOLO (FREE AI Version )
+# Drone Video Processing using YOLO (FREE AI Version )
 
 ## 📌 Overview
 
