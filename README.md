@@ -139,9 +139,9 @@ Output Video
 
 ---
 
-## 📸 Demo (Add your output video here)
+## 📸 Demo ( output video )
 
-Upload your output video and add link/screenshot here.
+screenshot 
 
 ---
 
